@@ -1,0 +1,4 @@
+contract,total_customers,avg_clv,churn_rate
+Month-to-month,135,4152.718518518518,0.0
+One year,178,4024.6629213483147,0.0
+Two year,134,4595.888059701492,0.0
